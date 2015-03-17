@@ -288,7 +288,7 @@ background: url(../images/1.jpg) no-repeat;
 .st-panel p {
 	position: absolute;
 	text-align: left;
-	font-size: 2.0rem;
+	font-size: 1.0rem;
 	line-height: 22px;
 	color: #000;
 	z-index: 2;
@@ -399,7 +399,7 @@ background: url(../images/1.jpg) no-repeat;
 		width: 40%;
 		left: 31%;
 		line-height: 4rem;
-		font-size: 2.5rem;
+		font-size: 2.0rem;
 		margin-top: 0;
 	}
 
